@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/wpfinalpro-frontend-/static/css/main.46d10695.css",
+    "main.js": "/wpfinalpro-frontend-/static/js/main.dec054e5.js",
+    "static/js/787.cda612ba.chunk.js": "/wpfinalpro-frontend-/static/js/787.cda612ba.chunk.js",
+    "static/media/backgroundForest.png": "/wpfinalpro-frontend-/static/media/backgroundForest.e1d17dd2e15e81b62037.png",
+    "static/media/cat3.png": "/wpfinalpro-frontend-/static/media/cat3.be4c1d9f8fe515794a5a.png",
+    "static/media/tower.png": "/wpfinalpro-frontend-/static/media/tower.7c9b3a2f54e0ff018e15.png",
+    "static/media/cat2.png": "/wpfinalpro-frontend-/static/media/cat2.adc8e134cfaf1fe0781f.png",
+    "static/media/cat1.png": "/wpfinalpro-frontend-/static/media/cat1.704659df10ec31b0f97b.png",
+    "static/media/0.png": "/wpfinalpro-frontend-/static/media/0.a7dbe90751a01b975b95.png",
+    "static/media/characterTest.png": "/wpfinalpro-frontend-/static/media/characterTest.c5e12e3645e604166eaf.png",
+    "static/media/starburst.png": "/wpfinalpro-frontend-/static/media/starburst.9aec57738ce51a000d0f.png",
+    "static/media/weakdoge.png": "/wpfinalpro-frontend-/static/media/weakdoge.55eed165dc2741ac0471.png",
+    "static/media/ie.png": "/wpfinalpro-frontend-/static/media/ie.e6cda40875924e8431a4.png",
+    "index.html": "/wpfinalpro-frontend-/index.html",
+    "main.46d10695.css.map": "/wpfinalpro-frontend-/static/css/main.46d10695.css.map",
+    "main.dec054e5.js.map": "/wpfinalpro-frontend-/static/js/main.dec054e5.js.map",
+    "787.cda612ba.chunk.js.map": "/wpfinalpro-frontend-/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46d10695.css",
+    "static/js/main.dec054e5.js"
+  ]
+}
